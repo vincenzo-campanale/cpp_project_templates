@@ -2,7 +2,7 @@ unsigned int Fibonacci(unsigned int num)
 {
    if (num < 2)
    {
-      return 1;
+      return num;
    }
    else
    {
